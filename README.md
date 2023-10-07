@@ -41,7 +41,7 @@ The Chat App Project is a real-time chat application that allows users to commun
 1. Clone the repository:
 
    ```
-   git clone https://github.com/your-username/chat-app.git
+   git clone https://github.com/PrashantPatilMsc/Chat-Application-Advancenode.git
    cd chat-app
    ```
 
